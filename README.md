@@ -24,11 +24,11 @@ So far we see that all points have cast support for reductionism. However that i
 
 The first related to complexity that we talked about earlier. There is one assumption that we use if we are about to divide a complex problem into simpler parts. The assumption that the interaction between its parts is linier. Linearity means that if a system is combined with another system, the new resulting system is the sum of those two systems. However this is not always the case in the real world. An example would be a human brain. We know what and how a neuron, a nerve cell, is and works, but up until now we still do not know how a combination of neurons give rise to consciousness. This is because neurons interacting with each other create a new emergence behavior that can not be explained by linearity assumption.
 
-Another example can be seen in “Game of Life”. A game of life is a two dimensional grid with each grid can be in the state of lit up or dead ([Gershenson, 2011](#references)). These grids then can change its state in each step. There is a rule to govern this change of grid. For example, if a grid is surrounded by more than eight lit up grid, then its next state is lit up. There are other rules as well that make up this game. The result of these rules then can create a number of complex behaviors.
+Another example can be seen in “Game of Life”. A game of life is a two dimensional grid with each grid can be in the state of lit up or dead ([Gershenson, 2011](#Gershenson,-Carlos.-The-Implications-of-Interactions-for-Science-and-Philosophy,-2011.)). These grids then can change its state in each step. There is a rule to govern this change of grid. For example, if a grid is surrounded by more than eight lit up grid, then its next state is lit up. There are other rules as well that make up this game. The result of these rules then can create a number of complex behaviors.
 
 ## Reductionism Leads to Nihilism
 
-Lastly, I would like to talk about the shadow lurking behind reductionism, which is nihilism. “A reductionist approach to man tends to reify him, that is to say, to deal with a human being as if he were a mere res, a thing”. Such is what Victor Frankl said about Reductionism([Frankl, 1969](#references)). The end point of reductionism is nihilism. It allows us to see the individual tree in a forest and disregard the forest completely. Love in a reductionist view is just a mechanical chemistry that is happening in our body. In that view, we can no longer differentiate love that is caused by meaning and love that is caused by drugs.
+Lastly, I would like to talk about the shadow lurking behind reductionism, which is nihilism. “A reductionist approach to man tends to reify him, that is to say, to deal with a human being as if he were a mere res, a thing”. Such is what Victor Frankl said about Reductionism([Frankl, 1969](#Frankl,-Victor.-The-Will-to-Meaning,-1969)). The end point of reductionism is nihilism. It allows us to see the individual tree in a forest and disregard the forest completely. Love in a reductionist view is just a mechanical chemistry that is happening in our body. In that view, we can no longer differentiate love that is caused by meaning and love that is caused by drugs.
 
 It is even more dangerous that schools majorly teach about reductionist views. School will no longer humanize us. This is the reason why we find more and more people struggling to find meaning on this day. Humans have been reduced to atoms. What we find meaningful in this life, love, relationship, suffering, are reduced into a mere interaction of atoms without considering any emergence behaviors from those interactions.
 
@@ -42,6 +42,6 @@ At this point of writing, I am in the middle of reading Heidegger. I think that 
 
 ## References
 
-Gershenson, Carlos. The Implications of Interactions for Science and Philosophy, 2011.
+#### Gershenson, Carlos. The Implications of Interactions for Science and Philosophy, 2011.
 
-Frankl, Victor. The Will to Meaning, 1969
+#### Frankl, Victor. The Will to Meaning, 1969
